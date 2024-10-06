@@ -1,6 +1,6 @@
 # SatelliteSR-Frontend
 
-This is a React-based frontend application built to interact with the NASA SpaceApps 2024 challenge project "Satellite Reflectance Data: On the Fly and at Your Fingertips."
+This is a React-based frontend application built to interact with the NASA SpaceApps 2024 challenge project [Satellite Reflectance Data: On the Fly and at Your Fingertips.](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/landsat-reflectance-data-on-the-fly-and-at-your-fingertips/?tab=details)
 
 The frontend provides an interactive map for displaying satellite overpass information and Enhanced Vegetation Index (EVI) data in response to user input. It integrates seamlessly with the Flask-based backend to visualize satellite data in real-time.
 
